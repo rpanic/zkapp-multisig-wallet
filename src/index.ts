@@ -1,3 +1,3 @@
-import { SudokuZkApp } from './sudoku.js';
+import { MultiSigZkApp } from './multisig.js';
 
-export { SudokuZkApp };
+export { MultiSigZkApp };
